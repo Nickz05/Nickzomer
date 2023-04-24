@@ -254,6 +254,7 @@ header .togglebtn {
 
 .about {
     height: 590px;
+    width: 100%;
 }
 
 
@@ -263,19 +264,20 @@ header .togglebtn {
     height: 250px;
     margin-top: 80px;
     margin-bottom: 50px;
-
+    width: 100%;
 
 }
 
 .pointstot {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, auto));
-    grid-gap: 2rem;
     text-align: center;
     justify-content: center;
     margin: auto;
-    margin-left: 120px;
-    margin-right: 120px;
+
+
+    grid-gap: 2rem;
+    width: 100%;
 
 
 }
@@ -538,6 +540,7 @@ header .togglebtn {
     align-items: center;
     display: flex;
     margin-bottom: 30px;
+    margin-top: 50px;
     margin-left: -40px;
 }
 
@@ -654,6 +657,7 @@ textarea:valid~label {
         background-color: white;
     }
 
+
 }
 
 @media only screen and (max-width: 576px) {
@@ -700,7 +704,8 @@ textarea:valid~label {
     }
 
     .home {
-        margin-top: 150px;
+        margin-top: 20px;
+        height: 250px;
     }
 
     header {
@@ -709,13 +714,27 @@ textarea:valid~label {
     }
 
     .pointstot {
-        margin-left: 10px;
-        margin-right: 10px;
+        margin-left: 30px;
+        margin-right: 0px;
+        display: flex;
+        flex-direction: row;
+        grid-gap: 30px;
     }
 
-    .points-box,
-    .card {
-        max-width: 75%;
-        max-height: auto;
+    .home-content {
+        margin-top: 130px;
     }
+
+
+    .card {
+        height: 180px;
+        margin-top: 30px;
+    }
+
+    .points-box p {
+        display: none;
+    }
+
+
+
 }
