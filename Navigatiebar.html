@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigatiebar</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/83a3ed4d3a.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<nav>
+    <div class="navbar">
+        <div class="logo">
+            <a href="home.html">Navigatiebar</a>
+        </div>
+        <ul class="links">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="#">services</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">contact</a></li>
+        </ul>
+        <a href="#" class="starthierbtn">start hier</a>
+        <div class="togglebtn">
+            <i class="fa fa-bars" style="color: #ffffff;"></i>
+        </div>
+
+    </div>
+    <div class="dropdownmenu">
+        <li><a href="home.html">Home</a></li>
+        <li><a href="#">services</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">contact</a></li>
+        <li><a href="#" class="starthierbtn"><button class="starthierbtn">Start here</button></a></li>
+    </div>
+
+</nav>
+<script>
+    const toggleBtn = document.querySelector('.togglebtn')
+    const togglebtnIcon = document.querySelector('.togglebtn i')
+    const dropDownMenu = document.querySelector('.dropdownmenu')
+
+    toggleBtn.onclick = function () {
+        dropDownMenu.classList.toggle('open')
+        const isOpen = dropDownMenu.classList.contains('open')
+
+        togglebtnIcon.classList = isOpen
+            ? 'fa-solid fa-x'
+            : 'fa-solid fa-bars'
+    }
+</script>
+
+<body>
+
+</body>
+
+</html>
