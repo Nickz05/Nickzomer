@@ -715,7 +715,7 @@ textarea:valid~label {
 
     .pointstot {
         margin-left: 30px;
-        margin-right: 0px;
+        margin-right: 30px;
         display: flex;
         flex-direction: row;
         grid-gap: 30px;
