@@ -146,6 +146,7 @@
     <section class="contact" id="contact">
 
         <div class="contactbox">
+            <p><br></p>
             <h1 class="contacttext">Contact Me</h1>
             <form action="https://formsubmit.co/Nickzomer@icloud.com" method="POST">
                 <input type="text" name="_honey" style="display:none">
@@ -194,12 +195,37 @@
             header.classList.toggle('sticky', window.scrollY > 0);
         };
 
+        Let sections = document.querySelectorAll('section');
+        
+        Let navLinks = document.querySelectorAl1('header nav a');
 
+        window.onscroll = () => {
+            sections.forEach(sec =› {
+                Let top = window.scrollY;
+                Let offset = sec.offsetTop - 150;
+                Let height = sec.offsetHeight;
+                Let id = sec.getAttribute('id');
+
+                if(top ›= offset && top ‹ offset + height) {
+                navLinks.forEach(links =› {
+                    links.classList.remove('active');
+                    document.querySelector('header nav a[href*-' + id + ']').classList.add()
+                });
+            };
+        });
 
     </script>
 
 
 
 </body>
+<footer class="footer">
+    <div class="footertekst">
+        <p style="margin-left: 20px;">Copyright © 2023 by Nick Zomer | All Rights Reserved</p>
+    </div>
+    <div class="footericon">
+        <a href="#"><i class="fa fa-arrow-up"></i></a>
+    </div>
+</footer>
 
 </html>
