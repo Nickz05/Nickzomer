@@ -813,10 +813,10 @@ textarea:valid~label {
     }
 
     .aboutmetekst {
-        margin-right: 0px;
+        margin-right: 40px;
         margin-top: -70px;
         display: block;
-        max-width: 90%;
+
         float: center;
         margin-left: 40px;
     }
