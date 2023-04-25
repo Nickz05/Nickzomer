@@ -883,4 +883,8 @@ textarea:valid~label {
     .services p {
         display: none;
     }
+
+    .footer {
+        font-size: 10px;
+    }
 }
