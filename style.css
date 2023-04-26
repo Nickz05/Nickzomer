@@ -182,6 +182,19 @@ header .togglebtn {
     height: 420px
 }
 
+.home404 {
+    height: 420px;
+}
+
+.hometxt4040 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 200px;
+    color: rgb(7, 66, 140);
+    margin-top: 200px;
+}
+
 .home-content h3,
 .home-content h1,
 .home-content p,
@@ -887,4 +900,15 @@ textarea:valid~label {
     .footer {
         font-size: 10px;
     }
+
+    .hometxt4040 {
+
+        font-size: 50px;
+
+    }
+
+    .home404 {
+        height: calc(100vh - 20vh);
+    }
+
 }
