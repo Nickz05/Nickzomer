@@ -46,13 +46,145 @@
     </nav>
 </header>
 
-<body>
-    <h1><br><br>
-    </h1>
-    <h1
-        style="justify-content: center; display: flex; align-items: center; margin-top: 20px; font-size: 100px; color: rgb(7, 66, 140);">
-        Thank
-        You!</h1>
-    <h3 style="justify-content: center; display: flex; align-items: center; margin-top: 20px;">You will be send back
-    </h3>
+<body id="home">
+    <section class="home">
+        <div class="home-content">
+            <img class="homeimg" src="img/image-removebg-preview (2).png" alt="Css image">
+            <h3>Hello, I am</h3>
+            <h1>Nick Zomer</h1>
+            <p>On this website, you'll find an overview of my work as a web developer. I have experience in developing
+                websites for various industries and purposes, such as e-commerce, corporate websites, and portfolio
+                websites
+                like this one.
+            </p>
+
+        </div>
+        <div class="socialmedia">
+            <a href="#" class="socialmedia1"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+        </div>
+    </section>
+    <section class="points-header">
+        <div class="pointstot">
+            <div class="card">
+                <div class="points-box">
+                    <div class="points-img"><img src="img/perfect icon.png" alt=""></div>
+
+                    <h3>Precise</h3>
+                    <p>I work very precisely to build the most efficient <br> website for you. </p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="points-box">
+                    <div class="points-img"><img src="img/Brush icon.png" alt="Brush"></div>
+
+                    <h3>High Quality</h3>
+                    <p>My website features high-quality images along with <br> a smoothly running website.</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="points-box">
+                    <div class="points-img"><img src="img/Idea icon.png" alt=""></div>
+                    <h3>Idea</h3>
+                    <p>All websites created by me are unique, and you can <br> definitely expect a highly creative
+                        website
+                        from me.</p>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <section class="about" id="about">
+        <p class="sier"><br><br></p>
+        <div class="aboutme-content">
+            <img class="circle1" src="img/cirkel.png" alt="blue circle">
+            <div class="aboutmetekst">
+                <h1>About Me</h1>
+                <p>As a passionate web developer, I am always seeking new challenges and opportunities to further
+                    develop my skills. With a background in computer science and years of experience in building
+                    websites, web applications, and e-commerce platforms, I possess the knowledge and expertise required
+                    to deliver successful projects. <br> <br> If you're looking for a reliable and experienced web
+                    developer
+                    who can bring your ideas to life, feel free to get in touch. I look forward to working with you and
+                    making your project a success.</p>
+
+                <a href="/about"><button class="contactmebtn">Read more</button></a>
+            </div>
+
+        </div>
+    </section>
+    <section class="services" id="services">
+
+        <div class="sertitel">
+            <p><br> <br></p>
+            <h1><br> My Services</h1>
+        </div>
+        <div class="servicecards">
+            <div class="cardservice">
+                <i class=" fa fa-palette fa-2xl"></i>
+                <h2>Web Designer</h2>
+                <p>As a web designer, I ensure that your website gets the perfect layout to attract the most visitors
+                </p>
+            </div>
+            <div class="cardservice">
+                <i class="fa-thin fa fa-paintbrush fa-2xl"></i>
+                <h2>Graphic Designer</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur ipsum provident molestiae, eaque
+                    maiores pariatur?</p>
+            </div>
+            <div class="cardservice">
+                <i class="fa fa-code fa-2xl"></i>
+                <h2>Web Developer</h2>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, voluptatem officiis? Impedit soluta
+                    eos odit, harum quis maiores repellendus voluptatem!</p>
+            </div>
+        </div>
+    </section>
+    <section class="contact" id="contact">
+
+        <div class="contactbox">
+            <p><br></p>
+            <h1 class="contacttext">Contact Me</h1>
+            <p>Thank u for contacting me</p>
+        </div>
+    </section>
+    <script>
+        const toggleBtn = document.querySelector('.navbar .togglebtn')
+        const togglebtnIcon = document.querySelector('.navbar .togglebtn i')
+        const dropDownMenu = document.querySelector('.dropdownmenu')
+
+        toggleBtn.onclick = function () {
+            dropDownMenu.classList.toggle('open')
+            const isOpen = dropDownMenu.classList.contains('open')
+
+            togglebtnIcon.classList = isOpen
+                ? 'fa-solid fa-x'
+                : 'fa-solid fa-bars'
+        };
+
+        window.onscroll = function () {
+            let header = document.querySelector('header');
+            header.classList.toggle('sticky', window.scrollY > 0);
+        };
+
+
+
+    </script>
+
+
+
 </body>
+<footer class="footer">
+    <div class="footertekst">
+        <p style="margin-left: 20px;">Copyright © 2023 by Nick Zomer | All Rights Reserved</p>
+    </div>
+    <div class="footericon">
+        <a href="#"><i class="fa fa-arrow-up"></i></a>
+    </div>
+</footer>
+
+</html>
