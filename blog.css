@@ -1,0 +1,121 @@
+@font-face {
+    font-family: 'Halloween Morning';
+    src: url("../assets/fonts/Halloween Morning.ttf");
+}
+
+
+body{
+    background-color: #f5f4f5;
+    margin: 0;
+    width: 100vw;
+    height: 105vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+nav {
+    position: fixed;
+    height: 60px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(51, 51, 51, 0.8);
+    top: 0;
+    left: 0;
+}
+
+nav ul li a{
+    font-family: Impact;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 100%;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.blog_header {
+    background-image: url("../assets/images/website_film_voorkant.png");
+    width: 100vw;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    top: 0;
+
+}
+
+.overlay {
+    width: 100vw;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgba(255, 255, 255, 0.8);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: "Halloween Morning";
+    font-size: 30px;
+    font-weight: bold ;
+}
+.blog_post {
+
+    justify-content: space-between;
+    align-items: flex-start;
+    height: auto;
+    background-color: #f5f4f5;
+    border-radius: 20px;
+    margin: 50px 200px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.blog_post_header {
+    display: flex;
+    flex-direction: row;
+}
+.blog_post_header .published{
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+
+}
+
+.blog_post_content {
+    flex: 3; /* Geef de tekst meer ruimte */
+    margin-right: 20px;
+}
+
+
+.blog_post p {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.figma_frame {
+    flex: 2; /* Geef de afbeelding minder ruimte dan de tekst */
+    text-align: center; /* Centreer de afbeelding en het bijschrift */
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+.figma {
+    width: 100%; /* Laat de afbeelding schaalbaar zijn */
+    max-width: 400px; /* Beperk de maximale breedte */
+    height: auto; /* Behoud de verhoudingen van de afbeelding */
+    border-radius: 10px; /* Voeg afgeronde hoeken toe */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Schaduw onder de afbeelding */
+}
+ .voorkant_web{
+    width: 900px;
+    height: auto;
+     border-radius: 10px;
+}
