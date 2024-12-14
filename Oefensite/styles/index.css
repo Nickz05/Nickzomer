@@ -1,0 +1,264 @@
+@font-face {
+    font-family: 'impact';
+    src: url("../assets/font/impact.ttf");
+}
+
+body{
+    margin: 0;
+    background-color: #f8f7f6;
+}
+
+nav {
+    position: fixed;
+    height: 80px;
+    width: 100vw;
+    background-color: rgba(51, 51, 51, 0.8);
+    display: flex;
+    justify-content: center;
+
+}
+
+nav img {
+    width: 90px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 100%;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul li a{
+
+    font-family: Impact;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover{
+    color: #e50028;
+    text-decoration: underline;
+}
+.info_button {
+    right: 0;
+    padding: 7px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #e50028;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Impact;
+    text-align: center;
+}
+
+
+.info_button:hover {
+    background-color: #bcbab8;
+}
+
+.logo {
+    width: 100vw;
+    height: 55vw;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-image: url("../assets/images/den-of-thieves-2-jackson-butler-meeting.avif");
+    background-size: cover;
+    background-position: center;
+
+}
+
+.logo img{
+    margin-bottom: 250px;
+}
+
+.poster{
+    display: block;
+    width: 100vw;
+    height: auto;
+
+    top: 0;
+    left: 0;
+    margin: 0;
+    background-color: black;
+}
+
+.quote {
+    display: block;
+    align-content: center;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 30vh;
+    margin-top: -250px;
+    background-color: rgba(0, 0, 0, 0.5);
+    font: italic bold 150% sans-serif;
+    font-family: Impact;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 15px;
+}
+
+.film_voorkant{
+    margin-left:150px;
+    width: 270px;
+    height: auto;
+    margin-bottom: 50px;
+
+}
+.film_voorkant:hover {
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.8);
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+
+.beschrijving_film{
+
+    display: flex;
+    width: 100vw;
+    margin-top: 75px;
+    margin-bottom: 50px;
+    height: 450px;
+
+}
+
+.text_film{
+    flex-direction: column;
+    margin-left: 80px;
+    width: 40vw;
+    height: auto;
+    margin-right: 100px;
+}
+
+.text_film p{
+    font-size: 20px;
+    font-family: Arial;
+}
+.text_film h2{
+    font-size: 50px;
+    font-family: Impact;
+}
+
+.beschrijving_film .info{
+    font-size: 15px;
+    font-family: Arial;
+    margin-top: 30px;
+}
+
+.banner_hoofdp{
+    width: 100vw;
+    height: auto;
+}
+
+.button {
+    margin-top: 20px;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: Impact;
+    color: white;
+    background-color: #e50028;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: #bcbab8;
+}
+
+.hoofdpersonen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.hoofdpersonen  img {
+    width: 400px;
+    height: auto;
+
+}
+
+.hoofdpersonen img:hover{
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.8);
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+
+.hoofdpersonen figcaption {
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.hoofdpersonen .fig{
+    margin-top: 20px;
+    font-family: Impact;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    justify-content: center;
+}
+
+.hoofdpersonen .fig2{
+    margin-top: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.trailer {
+    font-family: Impact;
+    color: white;
+    font-size: 50px;
+    width: 100vw;
+    height: 50vw;
+    background-image: url("../assets/images/Den-of-Thieves-3.jpg");
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+iframe {
+    border: none;
+}
+
+footer {
+    display: flex;
+    width: 100vw;
+    background-color: slategrey;
+    align-items: center;
+    color: white;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+}
+
+footer img {
+    width: 70px;
+    height: auto;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+footer p {
+    font-family: Arial;
+    font-size: 15px;
+
+}
