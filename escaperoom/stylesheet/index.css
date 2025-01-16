@@ -1,0 +1,515 @@
+@font-face {
+    font-family: 'Monster AG';
+    src: url("../assets/fonts/Monster AG.ttf");
+}
+
+@font-face {
+    font-family: 'Fredoka One';
+    src: url("../assets/fonts/Fredoka.ttf");
+}
+
+body {
+    background: url("../assets/images/background.png");
+    margin: 0;
+    min-width: 100vw;
+    min-height: 100vh;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-family: "Monster AG", sans-serif;
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+p, a {
+    font-family: Fredoka One, sans-serif;
+    font-size: 1.25rem;
+}
+
+h2 {
+    font-family: Monster AG, sans-serif;
+    font-size: 4rem;
+}
+
+h3 {
+    font-family: "Fredoka One", sans-serif;
+    font-size: 1.875rem;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 0.875rem;
+    font-family: Arial, sans-serif;
+}
+
+.published{
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+
+}
+
+.button {
+    margin-top: 1.25rem;
+    display: inline-block;
+    padding: 0.4375rem 1.125rem;
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    font-family: Fredoka One, sans-serif;
+    color: white;
+    background-color: #055D9D;
+    text-decoration: none;
+    border: 0.1875rem solid #055D9D;
+    border-radius: 0.3125rem;
+    cursor: pointer;
+    text-align: center;
+    font-weight: normal;
+}
+
+.wachtwoord_overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.95);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 1100;
+}
+
+.code-container {
+    display: flex;
+    gap: 0.9375rem;
+}
+
+.code-box {
+    width: 15vw;
+    max-width: 3.75rem;
+    height: 15vw;
+    max-height: 3.75rem;
+    text-align: center;
+    font-size: 1.5em;
+    border: 0.125rem solid #ccc;
+    border-radius: 0.5rem;
+    outline: white;
+    background-color: transparent;
+    color: white;
+    box-shadow: 0 0.125rem 0.3125rem rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.code-box:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 0.5rem rgba(0, 123, 255, 0.5);
+}
+
+.fade-out {
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+.wachtwoord_overlay input {
+    padding: 0.625rem;
+    margin: 0.625rem 0;
+    width: 12.5rem;
+}
+
+.button:hover {
+    background-color: #2B2D33;
+    border: 0.1875rem solid #7BCA7E;
+}
+
+
+nav {
+    position: fixed;
+    height: 3.75rem;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(43, 45, 51, 0.7);
+    top: 0;
+    box-shadow: 0 0.1875rem 0.625rem #055D9D;
+    z-index: 1000;
+}
+
+nav img {
+    width: 2.0625rem;
+    height: auto;
+    margin-top: 0.3125rem;
+}
+
+nav .timeline_icon {
+    width: 2.5rem;
+    height: 2.0625rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: lighter;
+    position: relative;
+    transition: color 0.3s ease;
+}
+
+nav ul li a::after {
+    content: '';
+    position: absolute;
+    bottom: -0.125rem;
+    left: 0;
+    width: 0;
+    height: 0.25rem;
+    background-color: #055D9D;
+    transition: width 0.3s ease;
+}
+
+nav ul li a:hover::after {
+    width: 100%;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0 1.875rem;
+    padding-left: 0;
+    width: 100%;
+    text-decoration: none;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.blog_header {
+    width: 100vw;
+    height: 31.25rem;
+    background-size: cover;
+    background-position: center;
+    top: 0;
+    box-shadow: 0 0 0.625rem rgba(0, 0, 0, 1.5);
+}
+
+.blog_background {
+    background-image: url("../assets/images/character1.jpeg");
+    background-position: top;
+    height: 100vh;
+}
+
+.overlay {
+    width: 100vw;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: rgba(255, 255, 255, 0.8);
+    display: flex;
+}
+
+.homepage {
+    flex-direction: column;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+}
+
+.logo_monster {
+    max-width: 6.25rem;
+    width: 100%;
+}
+
+.homepage img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+
+.homepage h1 {
+    text-transform: uppercase;
+}
+
+.homepage p {
+    width: 80%;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120vh;
+    background: url("../assets/images/ripped-paper.png") top;
+    background-size: cover;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+
+}
+
+.info img {
+    max-width: 40rem;
+    margin-left: 6.25rem;
+    position: relative;
+}
+
+.info_text {
+    margin: 8rem 6.25rem;
+    color: #2B2D33;
+}
+
+
+.timeline {
+    position: relative;
+    width: 100%;
+    padding: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.timeline-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2rem 0;
+    width: 80%;
+    position: relative;
+}
+
+.timeline-item:nth-child(odd) {
+    flex-direction: row; /* Cirkel links, box rechts */
+}
+
+.timeline-item:nth-child(even) {
+    flex-direction: row-reverse; /* Cirkel rechts, box links */
+}
+
+.date-circle {
+    width: 8rem;
+    height: 8rem;
+    background: rgba(255, 255, 255, 0.4);
+    border: 3px #055D9D solid;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    position: relative;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.8);
+}
+
+time {
+    color: #055D9D;
+    font-size: 3rem;
+    font-family: "Fredoka One", sans-serif;
+    font-weight: bolder;
+}
+
+.date-circle:hover {
+    transform: scale(1.15);
+    background: #055D9D;
+    color: white;
+    transition: opacity 0.8s ease, transform 0.5s ease;
+}
+
+.timeline > h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    margin: 3rem 0 2rem 0;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.timeline-box img {
+    width: 100%;
+    border-radius: 10px;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.05);
+}
+
+.timeline-item {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: opacity 0.8s ease, transform 0.5s ease;
+}
+
+.timeline-item.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.timeline-box {
+    width: 35%;
+    margin: 20px 0; /* Ruimte tussen de boxen */
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    position: relative;
+    border: 0.2rem solid transparent;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.15);
+    transition: 0.3s ease;
+    color: black;
+}
+
+.timeline-content h2{
+    margin: 0;
+    color: #055D9D;
+    transition: 0.3s ease;
+
+}
+
+.timeline-box:hover {
+    background-color: #055D9D;
+    color: white;
+    box-shadow: 0 10px 10px rgba(0,0,0, 0.0);
+}
+.timeline-box:hover h2 {
+    color: white;
+}
+
+
+
+
+
+footer {
+    display: flex;
+    width: 100vw;
+    background-color: #055D9D;
+    align-items: center;
+    color: white;
+    height: 100px;
+    justify-content: center;
+}
+
+footer img {
+    width: 70px;
+    height: auto;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+footer p {
+    font-family: Impact, sans-serif;
+    font-size: 15px;
+
+}
+
+@media (max-width: 1024px) {
+    h1 {
+        font-size: 2rem;
+    }
+    p {
+        font-size: 1.1rem;
+    }
+    .blog_header, .overlay {
+        height: 28.125rem;
+    }
+
+    .code-box {
+        width: 12vw;
+        height: 12vw;
+        font-size: 1.2em;
+    }
+
+
+    .info {
+        height: 28.125rem;
+    }
+    .info_text {
+        margin: 0 3.125rem;
+    }
+    .info img {
+        margin-left: 3.125rem;
+        max-width: 6.25rem;
+    }
+    .timeline-box {
+        width: 35vh;
+    }
+}
+
+
+
+@media (max-width: 768px) {
+
+    p {
+        font-size: 0.875rem;
+    }
+    figcaption {
+        font-size: 0.6rem;
+    }
+    .logo_monster {
+        width: 3.75rem;
+        margin-top: 1.25rem;
+        margin-bottom: 0.9375rem;
+    }
+    nav {
+        height: 3.125rem;
+    }
+
+    .blog_header, .overlay {
+        height: 12.5rem;
+    }
+    .blog_background, .homepage{
+        height: 100vh;
+    }
+    .date-circle {
+        display: none;
+    }
+    .timeline-item {
+        width: 80vh;
+        justify-content: center
+    }
+
+    .timeline {
+        height: auto;
+    }
+
+    .code-container {
+        display: flex;
+        width: 10rem;
+        align-items: center;
+        justify-content: center;
+    }
+
+    body{
+        background-position: bottom;
+    }
+    .code-box {
+        font-size: 1rem;
+        max-width: 1.5rem;
+        max-height: 1.5rem;
+    }
+    .info {
+        display: block;
+        height: 37.5rem;
+    }
+    .info img {
+        width: 12.5rem;
+        justify-content: center;
+        align-items: center;
+        margin-top: 3.125rem;
+    }
+}

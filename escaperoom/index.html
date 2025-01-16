@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog - Week 1</title>
+    <link rel="icon" href="assets/images/logo_monsterinc.png" type="image/png">
+    <link rel="stylesheet" href="stylesheet/index.css">
+</head>
+<body>
+<header>
+    <div id="toegang_overlay" class="wachtwoord_overlay">
+        <h1>Voer de toegangscode in</h1>
+        <div class="code-container">
+            <input type="text" maxlength="1" class="code-box" id="code1" oninput="moveToNext(this, 'code2')">
+            <input type="text" maxlength="1" class="code-box" id="code2" oninput="moveToNext(this, 'code3')">
+            <input type="text" maxlength="1" class="code-box" id="code3" oninput="moveToNext(this, 'code4')">
+            <input type="text" maxlength="1" class="code-box" id="code4" oninput="moveToNext(this, 'code5')">
+            <input type="text" maxlength="1" class="code-box" id="code5" oninput="submitCode()">
+        </div>
+        <p id="message"></p>
+    </div>
+
+    <nav>
+        <ul>
+            <li><a href="index.html"><img src="assets/images/home.png"></a></li>
+            <li class="blog"><a href="blog.html">Blog</a></li>
+            <li><a href="#"><img class="timeline_icon" src="assets/images/timeline.png"></a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+        <div class="blog_header blog_background">
+            <div class="overlay homepage">
+                <img class="logo_monster" src="assets/images/logo_monsterinc.png" alt="logo">
+                <h1>Welkom bij <br> Waternoose Industries</h1>
+                <p>Energie is alles. En hier, in de donkere gangen van onze faciliteit, maken we energie van wat jou 's nachts wakker houdt: angst.
+                    Durf jij door de deuren te stappen en de waarheid achter ons succes te ontdekken? Je hebt 8 minuten. Maar pas op... sommige deuren moeten nooit geopend worden.</p>
+            </div>
+        </div>
+
+        <div class="info">
+            <img src="assets/images/Henry_J._Waternoose.png" alt="">
+            <section class="info_text">
+                <h2>Meer Spanning. <br>Meer Plezier.</h2>
+                <p>Energie is alles. En hier, in de donkere gangen van onze faciliteit, maken we energie van wat jou 's nachts wakker houdt: angst.
+                    Durf jij door de deuren te stappen en de waarheid achter ons succes te ontdekken? Je hebt 8 minuten. Maar pas op... sommige deuren moeten nooit geopend worden.</p>
+            </section>
+        </div>
+
+        <section class="timeline">
+            <h1>Timeline Weekblogs</h1>
+            <article class="timeline-item">
+                <time class="date-circle">1</time>
+                <a href="week1.html" class="timeline-box ">
+                    <div class="timeline-img">
+                        <img src="assets/images/website_film_voorkant.png" alt="">
+                    </div>
+                    <section class="timeline-content js--fadeInLeft">
+                        <h2>Week 1</h2>
+                        <p class="published"><em>16 December 2024</em></p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ipsa ratione omnis alias cupiditate saepe atque totam aperiam sed nulla voluptatem recusandae dolor, nostrum excepturi amet in dolores. Alias, ullam.</p>
+                    </section>
+                </a>
+            </article>
+            <article class="timeline-item">
+                <time class="date-circle">2</time>
+                <a href="week2.html" class="timeline-box ">
+                    <div class="timeline-img">
+                        <img src="assets/images/styleguide.png" alt="">
+                    </div>
+                    <section class="timeline-content js--fadeInLeft">
+                        <h2>Week 2</h2>
+                        <p class="published"><em>06 januari 2025</em></p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ipsa ratione omnis alias cupiditate saepe atque totam aperiam sed nulla voluptatem recusandae dolor, nostrum excepturi amet in dolores. Alias, ullam.</p>
+                    </section>
+                </a>
+            </article>
+            <article class="timeline-item">
+                <time class="date-circle">3</time>
+                <a href="week3.html" class="timeline-box ">
+                    <div class="timeline-img">
+                        <img src="assets/images/voorkant_prototype.png" alt="">
+                    </div>
+                    <section class="timeline-content js--fadeInLeft">
+                        <h2>Week 3</h2>
+                        <p class="published"><em>13 Januari 2025</em></p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ipsa ratione omnis alias cupiditate saepe atque totam aperiam sed nulla voluptatem recusandae dolor, nostrum excepturi amet in dolores. Alias, ullam.</p>
+                    </section>
+                </a>
+            </article>
+            <article class="timeline-item">
+                <time class="date-circle">4</time>
+                <a href="week4.html" class="timeline-box ">
+                    <div class="timeline-img">
+                        <img src="assets/images/voorkant_prototype.png" alt="">
+                    </div>
+                    <section class="timeline-content js--fadeInLeft">
+                        <h2>Week 4</h2>
+                        <p class="published"><em>20 Januari 2025</em></p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ipsa ratione omnis alias cupiditate saepe atque totam aperiam sed nulla voluptatem recusandae dolor, nostrum excepturi amet in dolores. Alias, ullam.</p>
+                    </section>
+                </a>
+            </article>
+            <article class="timeline-item">
+                <time class="date-circle">5</time>
+                <a href="week5.html" class="timeline-box right">
+                    <div class="timeline-img">
+                        <img src="assets/images/website_film_voorkant.png" alt="">
+                    </div>
+                    <section class="timeline-content js--fadeInLeft">
+                        <h2>Week 5</h2>
+                        <p class="published"><em>27 Januari 2025</em></p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ipsa ratione omnis alias cupiditate saepe atque totam aperiam sed nulla voluptatem recusandae dolor, nostrum excepturi amet in dolores. Alias, ullam.</p>
+                    </section>
+                </a>
+            </article>
+        </section>
+</main>
+<footer>
+    <img src="assets/images/logo_monsterinc.png" alt="Monster INC logo">
+    <p>™  &  © 2025 MONSTER Inc. and affiliated companies. All rights served.</p>
+</footer>
+<script src="script/index.js"></script>
+</body>
+</html>
