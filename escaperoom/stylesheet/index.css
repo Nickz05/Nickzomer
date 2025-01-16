@@ -11,7 +11,7 @@
 body {
     background: url("../assets/images/background.png");
     margin: 0;
-    min-width: 100vw;
+    width: 100vw;
     min-height: 100vh;
     overflow-x: hidden;
     background-repeat: no-repeat;
@@ -453,7 +453,9 @@ footer p {
 
 
 @media (max-width: 768px) {
-
+    h2 {
+        font-size: 2.5rem;
+    }
     p {
         font-size: 0.875rem;
     }
