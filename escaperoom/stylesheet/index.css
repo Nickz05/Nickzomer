@@ -8,7 +8,7 @@
     src: url("../assets/fonts/Fredoka.ttf");
 }
 
-body {
+body, html {
     background: url("../assets/images/background.png");
     margin: 0;
     width: 100vw;
