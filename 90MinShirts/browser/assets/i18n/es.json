@@ -1,0 +1,257 @@
+{
+  "homepage": {
+    "worldwide": "Mundial",
+    "mostPopular": "Más Popular"
+  },
+  "navbar": {
+    "all-products": "Todos los Productos",
+    "league": "Ligas",
+    "nations": "Selecciones",
+    "retro": "Retro",
+    "all_leagues": "Todas las Ligas",
+    "all_nations": "Todas las Selecciones",
+    "all_retro": "Todo Retro",
+    "search_placeholder": "Buscar productos...",
+    "login": "Iniciar Sesión",
+    "account": "Cuenta",
+    "language": "Inglés",
+    "lang_nl": "Holandés",
+    "lang_en": "Inglés",
+    "lang_arab": "Árabe",
+    "lang_es": "Español",
+    "leo-major": "Kit Liberación Leo Major",
+    "off-white": "Off White x AC Milan",
+    "dropdown-all": "Todas las Ligas",
+    "categories": "categorías",
+    "league-sub": {
+      "eredivisie": "Eredivisie",
+      "premier-league": "Premier League",
+      "serie-a": "Serie A",
+      "la-liga": "La Liga"
+    },
+    "nations-sub": {
+      "nederland": "Países Bajos",
+      "duitsland": "Alemania"
+    },
+    "retro-sub": {
+      "20e-eeuw": "Siglo XX",
+      "2000s": "Estrellas de los 2000"
+    },
+    "categories-sub": {
+      "league": "Ligas",
+      "nations": "Selecciones",
+      "retro": "Retro"
+    }
+  },
+  "products": {
+    "azt24-25": {
+      "name": "Camiseta Local AZ 24/25",
+      "description": "La camiseta local del AZ para la temporada 2024-2025 es un homenaje a Alkmaar y al icónico Grote Raam de la Grote Kerk. Esta obra maestra, el vitral más grande de Europa, refleja la unidad de la ciudad y su gente. Cada detalle simboliza el orgullo de los residentes de Alkmaar y la historia única de la ciudad. Hecha en colaboración con la Grote Kerk Alkmaar, esta camiseta es una fusión de tradición y diseño moderno. Úsala con orgullo, por Alkmaar, para Alkmaar."
+    },
+    "azu24-25": {
+      "name": "Camiseta Visitante AZ 24/25",
+      "description": "El icónico Zaanse Schans en blanco y negro. Un homenaje a la cultura de la región de Zaan y la conexión del AZ con ella."
+    },
+    "nlt24-25": {
+      "name": "Camiseta Local Países Bajos 24/25",
+      "description": "La camiseta local de Países Bajos para la EURO 2024 es una oda moderna al icónico color naranja. La camiseta simboliza fuerza, orgullo y unidad nacional, con sutiles detalles de león que hacen referencia al símbolo nacional."
+    },
+    "nlu24-25": {
+      "name": "Camiseta Visitante Países Bajos 24/25",
+      "description": "La camiseta visitante de Países Bajos para la EURO 2024 combina diseño moderno con elementos tradicionales. En un azul real profundo, la camiseta irradia confianza y clase. Los sutiles acentos naranjas enfatizan el orgullo nacional y la convierten en un verdadero llamativo."
+    },
+    "real-madrid-retro-2001-2002": {
+      "name": "Camiseta Retro Real Madrid 2001/2002",
+      "description": "La legendaria camiseta local del Real Madrid usada durante la temporada 2001/2002, el año en que ganaron su 9° título de la Champions League. Blanco clásico con detalles en negro."
+    },
+    "ac-milan-off-white-24-25": {
+      "name": "Camiseta AC Milan x Off White Local 24/25",
+      "description": "Desde 1963 hasta el infinito. Esta camiseta, creada por PUMA, AC Milan y Off-White™, expresa el espíritu de 1963, el año del primer título de Copa Europea del Milan y un mundo inspirado por sueños de progreso. Dos combinaciones de colores alternativas celebran la unidad, diseñadas con los característicos acentos de Off-White™ que nos recuerdan que el cambio es imparable pero nunca completo. ¡Sueña en grande!"
+    },
+    "ac-milan-off-white-uit-24-25": {
+      "name": "Camiseta AC Milan x Off White Visitante 24/25",
+      "description": "Desde 1963 hasta el infinito. Esta camiseta, creada por PUMA, AC Milan y Off-White™, expresa el espíritu de 1963, el año del primer título de Copa Europea del Milan y un mundo inspirado por sueños de progreso. Dos combinaciones de colores alternativas celebran la unidad, diseñadas con los característicos acentos de Off-White™ que nos recuerdan que el cambio es imparable pero nunca completo. ¡Sueña más allá!"
+    },
+    "real-madrid-third-24-25": {
+      "name": "Tercera Equipación Real Madrid 24/25",
+      "description": "La elegancia es su identidad. Los monogramas 'RMCF' repetidos en esta auténtica camiseta del Real Madrid toman su aspecto distintivo de las letras tradicionales de las señales de las calles de Madrid. Destacando en el diseño elegante, el icónico Trefoil vuelve a una camiseta de partido de adidas después de un largo descanso. Detrás de todo, HEAT.RDY mantiene a los jugadores frescos y con estilo en el campo. Este producto está hecho con materiales 100% reciclados."
+    },
+    "liverpool-thuis-24-25": {
+      "name": "Camiseta Local Liverpool 24/25",
+      "description": "El diseño del patrón Amarillo Cromo es una versión modernizada de la legendaria camiseta local del '84, temporada en la que los Reds se convirtieron en campeones de Europa por cuarta vez en Roma y el primer club inglés en ganar un triplete de honores mayores. Nuestra colección Stadium combina detalles de diseño con tecnología absorbente de sudor para ofrecerte un look listo para el partido inspirado en la Camiseta Local del Liverpool FC. La tecnología Nike Dri-FIT aleja el sudor de tu piel para una evaporación más rápida, ayudándote a mantenerte seco y cómodo."
+    },
+    "nederland-retro-1988": {
+      "name": "Camiseta Retro Países Bajos 1988",
+      "description": "La icónica camiseta local de Países Bajos de 1988, usada durante la histórica victoria en el Campeonato Europeo en Alemania. Con su patrón geométrico único y su audaz color naranja, esta camiseta es un homenaje al legendario equipo de Van Basten, Gullit y Rijkaard. Un imprescindible para cada seguidor de la Oranje y fanático de la historia del fútbol."
+    },
+    "duitsland-thuis-24-25": {
+      "name": "Camiseta Local Alemania 24/25",
+      "description": "La camiseta local de Alemania para la EURO 2024 irradia elegancia y fuerza. Con un diseño blanco clásico con toques modernos y sutiles referencias a la bandera alemana, esta camiseta rinde homenaje a la rica historia futbolística de Die Mannschaft. Perfecta para los fanáticos orgullosos de apoyar a su nación."
+    },
+    "pec-zwolle-leo-major-2025": {
+      "name": "PEC Zwolle Edición Especial Leo Major 80 Años de Liberación",
+      "description": "Para conmemorar 80 años desde la liberación de Zwolle, PEC Zwolle y adidas presentan una camiseta local especial dedicada al héroe de guerra canadiense Leo Major. Inspirada en los colores de la Medalla de Conducta Distinguida, la camiseta presenta rayas verticales azul marino y burdeos, acentos blancos de adidas y el escudo de la ciudad en lugar del logo del club. La camiseta incluye un parche con la fecha de liberación, 14 de abril de 1945, y una hoja de arce como homenaje a Canadá. Usada solo durante el partido anual Leo Major Liberation Match, esta edición limitada honra la historia y la libertad."
+    },
+    "duitsland-uit-24-25": {
+      "name": "Camiseta Visitante Alemania 24/25",
+      "description": "La camiseta visitante de Alemania para la Euro 2024 combina poder y elegancia en un diseño moderno llamativo. Con una base negra audaz y acentos dorados dinámicos, este kit emana confianza y clase. Un look atrevido para los fanáticos que apoyan con orgullo a Die Mannschaft, dentro y fuera del campo."
+    },
+    "bournemouth-thuis-24-25": {
+      "name": "Camiseta Local Bournemouth 24/25",
+      "description": "La camiseta local del Bournemouth para la temporada 2024/2025 se mantiene fiel a la tradición con sus icónicas rayas rojas y negras. Con detalles modernos y un ajuste elegante, esta camiseta es un audaz homenaje al espíritu combativo del club y sus leales seguidores. Ya sea en las gradas o en las calles, úsala con orgullo."
+    },
+    "manchester-united-retro-96-98": {
+      "name": "Camiseta Retro Manchester United 1996-1998",
+      "description": "Un homenaje clásico a los Diablos Rojos, esta camiseta retro local del Manchester United de la era 1996-1998 presenta la icónica base roja con sutiles acentos negros y blancos. Usada durante una de las épocas doradas del club, es un símbolo atemporal de orgullo para cada seguidor del United."
+    },
+    "swipe": "← Desliza para más fotos →",
+    "inCart": "Añadir al Carrito",
+    "price": "Precio",
+    "shipToday": "Pedido hoy = enviado mañana",
+    "topQuality": "Máxima calidad garantizada",
+    "official": "Producto oficial con licencia",
+    "quantity": "Cantidad"
+  },
+  "cart": {
+    "title": "🛒 Carrito",
+    "empty": "Tu carrito está vacío.",
+    "total": "Total",
+    "grand_total": "Importe total",
+    "clear": "Vaciar carrito",
+    "checkout": "Pagar"
+  },
+  "login": {
+    "title": "Bienvenido de vuelta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "login_button": "Iniciar Sesión",
+    "no_account": "¿No tienes una cuenta aún?",
+    "register_link": "Regístrate aquí"
+  },
+  "account": {
+    "title": "Tu Cuenta",
+    "email": "Correo electrónico",
+    "name": "Nombre",
+    "address": "Dirección",
+    "birthdate": "Fecha de Nacimiento",
+    "orders": "Ver Pedidos",
+    "logout": "Cerrar Sesión",
+    "close": "Cerrar Cuenta"
+  },
+  "register": {
+    "title": "Crear Cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirm": "Repetir Contraseña",
+    "name": "Nombre",
+    "address": "Dirección",
+    "birthdate": "Fecha de Nacimiento",
+    "submit": "Registrarse",
+    "loading": "Registrando...",
+    "already": "¿Ya tienes una cuenta?",
+    "loginHere": "Inicia sesión aquí"
+  },
+  "checkout": {
+    "title": "Completa tu Pedido",
+    "total": "Total",
+    "email": "Correo electrónico",
+    "name": "Nombre",
+    "address": "Dirección",
+    "confirm": "Confirmar Pedido",
+    "successTitle": "¡Pedido Realizado!",
+    "successMessage": "Gracias por tu compra, {{name}}."
+  },
+  "orders": {
+    "title": "Tus Pedidos",
+    "empty": "Aún no has realizado ningún pedido.",
+    "order": "Pedido",
+    "total": "Total"
+  },
+  "orderDetail": {
+    "placedOn": "Pedido realizado el",
+    "backToOrders": "Volver a mis pedidos",
+    "customer": "Cliente",
+    "email": "Correo electrónico",
+    "address": "Dirección",
+    "price": "Precio",
+    "quantity": "Cantidad",
+    "total": "Total",
+    "loading": "⏳ Cargando..."
+  },
+  "footer": {
+    "promoTitle": "ÚNETE AHORA Y DISFRUTA DE GRANDES DESCUENTOS",
+    "join": "Únete al CLUB",
+    "leagues": "Ligas",
+    "nations": "Selecciones",
+    "retro": "Retro",
+    "about": "Sobre 90Min",
+    "aboutUs": "Sobre nosotros",
+    "blog": "Blog",
+    "delivery": "Envío",
+    "sizeCharts": "Guía de tallas",
+    "follow": "Síguenos",
+    "rights": "Todos los derechos reservados",
+    "terms": "Términos y Condiciones",
+    "privacy": "Política de Privacidad",
+    "cookies": "Cookies"
+  },
+  "legal": {
+    "terms": {
+      "title": "Términos y Condiciones",
+      "content": "Bienvenido a 90Min Retro Shirts. Al usar este sitio web, aceptas los siguientes términos.\n\n1. Tienda Online Ficticia\nEsta tienda online es completamente ficticia y está destinada únicamente con fines ilustrativos, de demostración o educativos. Ninguno de los productos mostrados está realmente a la venta o disponible para entrega.\n\n2. Pedidos\nTodas las funciones de pedido, carrito de compras y opciones de pago son simuladas. Cuando realizas un pedido, no se enviarán productos reales ni se realizará ninguna transacción financiera.\n\n3. Sin Entrega o Devoluciones\nDebido a que esta es una tienda ficticia, no se entregarán productos. Las devoluciones, reembolsos o cualquier forma de servicio al cliente no son aplicables.\n\n4. Sin Soporte al Cliente\nNo hay servicio al cliente disponible. Cualquier consulta, queja o solicitud no será respondida, ya que este sitio no se opera comercialmente.\n\n5. Uso bajo tu Responsabilidad\nEl uso de este sitio es completamente bajo tu propio riesgo. Los creadores de este sitio no son responsables de ningún daño o consecuencia resultante del uso de este entorno de demostración.\n\n6. Propiedad Intelectual\nTodos los logotipos, nombres de marcas, imágenes y textos utilizados son solo con fines de demostración. Pueden ser propiedad de terceros y no se utilizan con fines comerciales.\n\n7. Cambios\nEstos términos pueden cambiarse en cualquier momento sin previo aviso.\n\n¡Gracias por tu comprensión y disfruta explorando la demostración!"
+    },
+    "cookies": {
+      "title": "Política de Cookies",
+      "content": "Este sitio web utiliza cookies para proporcionar una experiencia de usuario fluida mientras navegas por este entorno de demostración.\n\n1. ¿Qué son las cookies?\nLas cookies son pequeños archivos de texto que se almacenan en tu dispositivo cuando visitas un sitio web. Ayudan a recordar preferencias y recopilar estadísticas básicas.\n\n2. ¿Por qué usamos cookies?\nComo esta es una tienda ficticia, las cookies solo se utilizan para admitir la funcionalidad del sitio de demostración y potencialmente proporcionar información analítica básica con fines educativos.\n\n3. Tipos de cookies\n- Cookies esenciales: garantizan que el sitio funcione correctamente (como configuraciones de idioma).\n- Cookies analíticas: pueden usarse para obtener información básica, pero no se almacenan datos personales.\n\n4. Sin seguimiento o publicidad\nEste sitio web no coloca cookies de seguimiento, anuncios o rastreadores de terceros. Toda la funcionalidad es local y anónima.\n\n5. Gestión de cookies\nPuedes administrar o eliminar cookies a través de la configuración de tu navegador. Ten en cuenta que hacerlo puede afectar la funcionalidad de esta demostración.\n\n6. Cambios\nEsta política de cookies puede actualizarse sin previo aviso según las actualizaciones del sitio.\n\nAl usar este sitio, aceptas el uso de las cookies descritas."
+    },
+    "privacy": {
+      "title": "Política de Privacidad",
+      "content": "Bienvenido a nuestra tienda online ficticia 90Min Retro Shirts. Este sitio está destinado únicamente con fines de demostración y educativos. No se realizan compras reales ni se recopilan datos personales con fines comerciales.\n\n1. Recopilación de Datos\nDurante tu uso de este sitio web, se te puede pedir que ingreses información como tu nombre, dirección de correo electrónico o dirección. Estos datos solo se almacenan localmente (por ejemplo, en tu navegador o memoria de sesión) y no se comparten con terceros.\n\n2. Uso de Datos\nToda la información ingresada sirve solo como ejemplo para demostrar cómo funciona el sistema. La tienda online no procesa pagos ni pedidos reales. Todo el contenido es ficticio y no se utilizará para marketing o ventas.\n\n3. Sin Almacenamiento Externo\nNo hay conexión a bases de datos externas o herramientas de seguimiento. No se almacena información en un servidor externo. Todo funciona localmente o dentro del entorno del navegador.\n\n4. Seguridad\nDado que este es un entorno ficticio, hay medidas de seguridad básicas para evitar que los datos se expongan involuntariamente. Aún así, te recomendamos no ingresar información personal real.\n\n5. Derechos del Usuario\nComo no hay procesamiento real de datos personales, los derechos del usuario como acceso, modificación o eliminación no aplican. Este es un entorno de demostración.\n\n6. Contacto\nSi tienes preguntas sobre esta política o deseas saber cómo eliminar tus datos de demostración localmente, puedes contactar al equipo del proyecto 90Min Retro Shirts (ficticio).\n\nAl usar este sitio web, aceptas el uso de los datos ingresados exclusivamente dentro de esta demostración."
+    },
+    "delivery": {
+      "title": "Envío y Entrega",
+      "content": "Nuestras camisetas generalmente se envían en 1-2 días hábiles. Ten en cuenta: este es un sitio web de demostración y no se realizan envíos reales."
+    },
+    "about": {
+      "title": "Sobre nosotros",
+      "content": "90Min Retro Shirts es una tienda online ficticia que ofrece camisetas de fútbol clásicas y actuales de clubes nacionales e internacionales."
+    },
+    "sizeCharts": {
+      "title": "Guía de Tallas",
+      "content": "Nuestras camisetas están disponibles en una sola talla (L). Dado que esto es una demostración, no hay otras tallas disponibles."
+    }
+  },
+  "slider": {
+    "peczwolle": {
+      "title": "Kit de Liberación PEC Zwolle",
+      "subtitle": "Un homenaje a Leo Major – 80 años de libertad"
+    },
+    "milan": {
+      "title": "AC Milan x OFF White",
+      "subtitle": "Bienvenido a la Tierra de los Sueños"
+    },
+    "retro": {
+      "title": "Nueva Colección Retro",
+      "subtitle": "Ediciones limitadas y más"
+    },
+    "button": "Comprar ahora"
+  },
+  "search": {
+    "results_for": "Resultados de búsqueda para:",
+    "enter_query": "Por favor, ingresa un término de búsqueda.",
+    "loading": "Cargando...",
+    "no_results": "No se encontraron productos para"
+  },
+  "accessibility": {
+    "options": "Opciones para Daltonismo",
+    "default": "Predeterminado",
+    "protanopia": "Protanopia",
+    "deuteranopia": "Deuteranopia",
+    "tritanopia": "Tritanopia",
+    "achromatopsia": "Acromatopsia"
+  },
+  "errors": {
+    "page_not_found": "¡Ups! Esta página no existe.",
+    "go_back_home": "Volver a la página de inicio"
+  }
+}

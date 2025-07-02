@@ -1,0 +1,224 @@
+{"homepage": {
+  "worldwide": "Wereldwijd",
+  "mostPopular": "Meest populair"
+},
+  "navbar": {
+    "all-products": "Alle Producten",
+    "league": "Competities",
+    "nations": "Landen",
+    "retro": "Retro",
+    "all_leagues": "Alle Competities",
+    "all_nations": "Alle Landen",
+    "all_retro": "Alle Retro",
+    "search_placeholder": "Zoek producten...",
+    "login": "Inloggen",
+    "account": "Account",
+    "language": "Nederlands",
+    "lang_nl": "Nederlands",
+    "lang_en": "Engels",
+    "lang_arab": "Arabisch",
+    "lang_es": "Spaans",
+    "leo-major": "Leo Major Bevrijdingsshirt",
+    "off-white": "Off White x AC Milan",
+    "nations-sub": {
+      "nederland": "Nederland",
+      "duitsland": "Duitsland"
+    },
+    "retro-sub": {
+      "20e-eeuw": "20e Eeuw",
+      "2000s": "2000s Sterren"
+    },
+    "league-sub": {
+      "eredivisie": "Eredivisie",
+      "premier-league": "Premier League",
+      "serie-a": "Serie A",
+      "la-liga": "La Liga"
+    },
+    "categories": "categorieën",
+    "categories-sub": {
+      "league": "Competities",
+      "nations": "Landen",
+      "retro": "Retro"
+    }
+  },
+  "products": {
+    "swipe": "← Swipe voor meer foto's →",
+    "inCart": "IN WINKELWAGEN",
+    "price": "Prijs",
+    "shipToday": "Vandaag besteld = morgen verzonden",
+    "topQuality": "Hoogste kwaliteit gegarandeerd",
+    "official": "Officiële gelicentieerde kleding",
+    "quantity": "Aantal",
+    "error-50": "Je kunt maximaal 50 producten bestellen",
+    "error-1": "Je moet minimaal 1 product bestellen"
+
+  },
+  "cart": {
+    "title": "🛒 Winkelwagen",
+    "empty": "Je winkelwagen is leeg.",
+    "total": "Totaal",
+    "grand_total": "Totaalbedrag",
+    "clear": "Winkelwagen legen",
+    "checkout": "Afrekenen"
+  },
+  "login": {
+    "title": "Welkom terug " ,
+    "email": "Email",
+    "password": "Wachtwoord",
+    "login_button": "Inloggen",
+    "no_account": "Nog geen account?",
+    "register_link": "Registreer hier"
+  },
+  "account": {
+    "title": "Jouw Account",
+    "email": "Email",
+    "name": "Naam",
+    "address": "Adres",
+    "birthdate": "Geboortedatum",
+    "orders": "Bekijk bestellingen",
+    "logout": "Uitloggen",
+    "close": "Sluit Account"
+  },
+  "register": {
+    "title": "Account aanmaken ",
+    "email": "Email",
+    "password": "Wachtwoord",
+    "confirm": "Herhaal Wachtwoord",
+    "name": "Naam",
+    "address": "Adres",
+    "birthdate": "Geboortedatum",
+    "submit": "Registreren",
+    "loading": "Registreren...",
+    "already": "Al een account?",
+    "loginHere": "login hier"
+  },
+  "checkout": {
+    "title": "Bestelling afronden",
+    "total": "Totaal",
+    "email": "Emailadres",
+    "name": "Naam",
+    "address": "Adres",
+    "confirm": "Bevestig bestelling",
+    "successTitle": "Bestelling geplaatst!",
+    "successMessage": "Bedankt voor je aankoop, {{name}}."
+  },
+  "orders": {
+    "title": "Jouw bestellingen",
+    "empty": "Je hebt nog geen bestellingen geplaatst.",
+    "order": "Bestelling",
+    "total": "Totaal"
+  },
+  "orderDetail": {
+    "placedOn": "Bestelling op",
+    "backToOrders": "Terug naar mijn orders",
+    "customer": "Besteller",
+    "email": "Email",
+    "address": "Adres",
+    "price": "Prijs",
+    "quantity": "Aantal",
+    "total": "Totaal",
+    "loading": "⏳ Bezig met laden..."
+  },
+  "footer": {
+    "promoTitle": "WORD NU LID EN PROFITEER\nVAN FLINKE KORTINGEN",
+    "join": "Join de CLUB",
+    "leagues": "Competities",
+    "nations": "Landen",
+    "retro": "Retro",
+    "about": "Over 90Min",
+    "aboutUs": "Over ons",
+    "blog": "Blog",
+    "delivery": "Bezorging",
+    "sizeCharts": "Maattabellen",
+    "follow": "Volg ons",
+    "rights": "Alle rechten voorbehouden",
+    "terms": "Algemene voorwaarden",
+    "privacy": "Privacybeleid",
+    "cookies": "Cookies",
+    "colorblindness": "kleurenblindheid"
+  },
+  "legal": {
+    "terms": {
+      "title": "Algemene Voorwaarden",
+      "content": "Welkom bij 90Min Retro Shirts. Door deze website te gebruiken, ga je akkoord met de volgende voorwaarden.\n\n1. Fictieve Webshop\nDeze webshop is volledig fictief en dient uitsluitend ter illustratie, demonstratie of educatie. Geen enkel product dat op deze website wordt weergegeven, is daadwerkelijk te koop of leverbaar.\n\n2. Bestellingen\nAlle bestelfuncties, winkelwagen en betaalopties zijn gesimuleerd. Wanneer je een bestelling plaatst, worden er geen echte producten verzonden en vindt er geen financiële transactie plaats.\n\n3. Geen Levering of Retour\nOmdat deze webshop niet echt is, worden er geen producten geleverd. Retourzendingen, terugbetalingen of enige vorm van klantenservice zijn niet van toepassing.\n\n4. Geen Klantenservice\nEr is geen klantenservice beschikbaar. Eventuele vragen, klachten of verzoeken kunnen niet worden beantwoord, aangezien deze site niet commercieel geëxploiteerd wordt.\n\n5. Gebruik op eigen risico\nHet gebruik van deze site is volledig op eigen risico. De makers van deze site zijn niet aansprakelijk voor schade of gevolgen voortvloeiend uit het gebruik van deze demo-omgeving.\n\n6. Intellectueel eigendom\nAlle gebruikte logo’s, merknamen, afbeeldingen en teksten zijn uitsluitend voor demonstratiedoeleinden. Ze zijn mogelijk eigendom van derden en worden niet voor commerciële doeleinden gebruikt.\n\n7. Wijzigingen\nDeze voorwaarden kunnen op elk moment worden aangepast zonder voorafgaande kennisgeving.\n\nBedankt voor je begrip en veel plezier met het verkennen van deze demo!"
+    },
+    "cookies": {
+      "title": "Cookiebeleid",
+      "content": "Deze website maakt gebruik van cookies om een soepele gebruikerservaring te bieden tijdens het navigeren in deze demo-omgeving.\n\n1. Wat zijn cookies?\nCookies zijn kleine tekstbestanden die op je apparaat worden opgeslagen wanneer je een website bezoekt. Ze helpen om voorkeuren te onthouden en statistieken bij te houden.\n\n2. Waarom gebruiken wij cookies?\nAangezien dit een fictieve webshop is, worden cookies uitsluitend gebruikt om de werking van de demo-site te ondersteunen en eventueel analytisch inzicht te geven in gebruikspatronen voor educatieve doeleinden.\n\n3. Soorten cookies\n- Noodzakelijke cookies: zorgen ervoor dat de site functioneert (zoals taalinstellingen).\n- Analytische cookies: kunnen gebruikt worden om basisinzichten te verkrijgen, maar slaan geen persoonlijke gegevens op.\n\n4. Geen tracking of advertenties\nDeze website plaatst geen tracking cookies, advertenties of third-party trackers. Alle functionaliteit is lokaal en anoniem.\n\n5. Cookies beheren\nJe kunt cookies beheren of verwijderen via de instellingen van je browser. Houd er rekening mee dat dit invloed kan hebben op de werking van deze demo.\n\n6. Wijzigingen\nDit cookiebeleid kan worden bijgewerkt zonder voorafgaande kennisgeving, afhankelijk van updates aan de site.\n\nDoor gebruik te maken van deze site stem je in met het gebruik van de beschreven cookies."
+    },
+    "privacy": {
+      "title": "Privacybeleid",
+      "content": "Welkom bij onze demo-webshop 90Min Retro Shirts. Deze site is bedoeld voor demonstratie- en educatieve doeleinden. Er worden geen echte aankopen gedaan en er worden geen persoonlijke gegevens verzameld voor commerciële doeleinden.\n\n1. Gegevensverzameling\nTijdens het gebruik van deze website kan je gevraagd worden om gegevens zoals je naam, e-mailadres of adres in te vullen. Deze gegevens worden uitsluitend lokaal opgeslagen (bijvoorbeeld in je browser of sessiegeheugen) en worden niet gedeeld met derden.\n\n2. Gebruik van gegevens\nAlle ingevoerde gegevens dienen enkel als voorbeeld om de werking van het systeem te demonstreren. De webshop verwerkt geen echte betalingen of bestellingen. Alle informatie is fictief en zal niet gebruikt worden voor marketing of verkoop.\n\n3. Geen externe opslag\nEr is geen verbinding met externe databases of trackingtools. Er wordt geen informatie opgeslagen op een externe server. Alles draait lokaal of binnen de browseromgeving.\n\n4. Beveiliging\nAangezien het een fictieve omgeving is, worden standaardbeveiligingsmaatregelen toegepast om te voorkomen dat gegevens onbedoeld zichtbaar worden. Toch raden we aan om geen echte persoonlijke gegevens in te voeren.\n\n5. Rechten van gebruikers\nOmdat er geen echte verwerking van persoonsgegevens plaatsvindt, zijn er geen rechten zoals inzage, wijziging of verwijdering van toepassing. Dit is een demonstratie-omgeving.\n\n6. Contact\nVoor vragen over dit beleid, of als je wilt weten hoe je demo-data lokaal kunt verwijderen, kun je contact opnemen via het projectteam van 90Min Retro Shirts (fictief).\n\nDoor deze website te gebruiken, ga je akkoord met het gebruik van ingevoerde gegevens uitsluitend binnen deze demonstratie."
+    },
+    "delivery": {
+      "title": "Verzending & levering",
+      "content": "Onze shirts worden normaal binnen 1-2 werkdagen verzonden. Let op: dit is een demonstratiewebsite, dus er vindt geen echte levering plaats."
+    },
+    "about": {
+      "title": "Over ons",
+      "content": "90Min Retro Shirts is een fictieve webshop die zich volledig richt op de verkoop van voetbalshirts van clubs en nationale teams. De webshop combineert retrodesigns met moderne releases, en biedt een unieke selectie aan shirts voor zowel de nostalgische voetbalfan als de hedendaagse supporter. Denk hierbij aan klassieke shirts uit de jaren 90, exclusieve samenwerkingen zoals AC Milan x Off-White, en actuele thuisshirts van het EK 2024.\nDe webshop is opgezet met het idee dat elke voetbalfan iets moet kunnen vinden wat bij hem of haar past. Daarom bevat het assortiment een gevarieerde selectie: van kleurrijke klassieke shirts tot strakke zwarte designs. Om deze reden is er ook rekening gehouden met kleurenblindheid: belangrijke knoppen, acties en tekstcontrast zijn zodanig ontworpen dat ze visueel goed opvallen voor mensen met vormen van kleurenblindheid, zoals rood-groenblindheid. Contrast is een bewuste ontwerpkeuze geweest, net als duidelijke pictogrammen en labels die niet alleen op kleur gebaseerd zijn.\nQua functionaliteit is de site modern opgezet. De navigatie is overzichtelijk, en bezoekers kunnen gemakkelijk zoeken op categorie, team of competitie. Via een breed dropdownmenu of via de zoekfunctie kunnen zij snel hun favoriete shirt vinden. Op de homepage worden populaire en nieuwe shirts uitgelicht met behulp van een interactieve slider.\nIn de Terms & Conditions wordt dit duidelijk vermeld. Ook wordt aangegeven dat producten enkel beschikbaar zijn in één maat om ook aan de wetten te voldoen.\nDe webshop is volledig tweetalig (Nederlands en Engels) en responsief ontworpen voor zowel desktop als mobiel gebruik. Ook is het winkelmandje, afrekenproces en gebruikersregistratie nagebootst om de volledige gebruikerservaring realistisch aan te laten voelen.\n"
+    },
+    "sizeCharts": {
+      "title": "Maattabellen",
+      "content": "Onze shirts zijn standaard in één maat beschikbaar (L). Omdat dit een demo betreft, worden geen andere maten aangeboden."
+    },
+    "colorblindness": {
+      "title": "Toegankelijkheid voor Kleurenblinden op Webshops",
+      "content": "Bij het ontwerpen van een webshop is het belangrijk om rekening te houden met toegankelijkheid. Een vaak vergeten doelgroep bestaat uit kleurenblinde gebruikers. Ongeveer 1 op de 12 mannen en 1 op de 200 vrouwen heeft een vorm van kleurenblindheid. Dit betekent dat een aanzienlijk deel van je potentiële klanten moeite kan hebben met het onderscheiden van bepaalde kleuren, wat de gebruikservaring negatief kan beïnvloeden. Door slimme ontwerpkeuzes te maken, kun je je webshop toegankelijker maken en ervoor zorgen dat niemand onnodig afhaakt tijdens het winkelen.\n\nWat is kleurenblindheid en welke problemen ontstaan er op een webshop?\nKleurenblindheid (daltonisme) ontstaat doordat de kegeltjes in het oog, die verantwoordelijk zijn voor kleurwaarneming, minder goed functioneren. De meest voorkomende vormen zijn protanomalie (moeite met rood en groen), deuteranomalie (moeite met groen en rood) en tritanomalie (moeite met blauw en geel).\nVeel webshops vertrouwen sterk op kleur om knoppen, foutmeldingen en productopties duidelijk te maken. Kleurenblinde gebruikers kunnen hierdoor:\n- Tekst en knoppen moeilijk lezen als het contrast te laag is.\n- Navigatieproblemen ondervinden als links en knoppen alleen door kleur worden aangegeven.\n- Foutmeldingen niet goed begrijpen als ze enkel met een rode kleur worden weergegeven.\n- Problemen ervaren bij het kiezen van producten zonder tekstuele kleuromschrijving.\n\nGelukkig zijn er eenvoudige maatregelen om je webshop toegankelijker te maken:\n1. Vermijd problematische kleurencombinaties\n2. Zorg voor voldoende contrast\n3. Gebruik iconen en patronen als aanvulling op kleur\n4. Maak links en knoppen extra herkenbaar\n5. Test je webshop met een kleurenblindheidssimulator\n6. Volg de Web Content Accessibility Guidelines (WCAG)\n\n**Bronnen:**\n- WebAim (2021). *Visual Disabilities*. Geraadpleegd op 12 augustus 2021, van: https://webaim.org/articles/visual/colorblind\n- Alblas, V. (2021, 11 maart). *Webdesign voor kleurenblinden: 5 praktische tips*. Frankwatching. https://www.frankwatching.com/archive/\n2021/03/11/webdesign-voor-kleurenblinden/\n- WeAreColorBlind. (z.d.). *Designing with the Colorblind in Mind will improve your Design for Everyone*. https://wearecolorblind.com/articles/designing-with-the-colorblind-in-mind-will-improve-your-design-for-everyone/\n- W3C. (2024, 13 december). *Web Content Accessibility Guidelines (WCAG) 2.1*. https://www.w3.org/TR/WCAG21/\n- W3C. (2023). *WCAG Best Practices*. https://www.w3.org/WAI/standards-guidelines/wcag/"
+    }
+  },
+  "slider": {
+    "peczwolle": {
+      "title": "PEC Zwolle Bevrijdingstenue",
+      "subtitle": "Een eerbetoon aan Leo Major – 80 jaar vrijheid"
+    },
+    "milan": {
+      "title": "AC Milan x OFF White",
+      "subtitle": "Welkom in Dreamland"
+    },
+    "retro": {
+      "title": "Nieuwe Retro collectie",
+      "subtitle": "Limited editions en meer"
+    },
+    "button": "Shop nu"
+  },
+  "search": {
+    "results_for": "Zoekresultaten voor:",
+    "enter_query": "Voer een zoekterm in.",
+    "loading": "Laden...",
+    "no_results": "Geen producten gevonden voor"
+  },
+  "accessibility": {
+    "options": "Opties voor Kleurenblinden",
+    "default": "Standaard",
+    "protanopia": "Protanopie",
+    "deuteranopia": "Deuteranopie",
+    "tritanopia": "Tritanopie",
+    "achromatopsia": "Achromatopsie",
+    "popup": {
+      "default": "Standaardmodus geactiveerd.",
+      "protanopia": "Protanopie-modus: roodblindheid-simulatie geactiveerd.",
+      "deuteranopia": "Deuteranopie-modus: groenblindheid-simulatie geactiveerd.",
+      "tritanopia": "Tritanopie-modus: blauw-geelblindheid-simulatie geactiveerd.",
+      "achromatopsia": "Achromatopsie-modus: volledig grijswaardenzicht gesimuleerd."
+    }
+  },
+  "errors": {
+    "page_not_found": "Oeps! Deze pagina bestaat niet.",
+    "go_back_home": "Ga terug naar de homepage"
+  },
+  "cookies": {
+    "title": "Deze website gebruikt cookies",
+    "description": "We gebruiken cookies om content en advertenties te personaliseren, sociale mediafuncties te bieden en ons verkeer te analyseren. Je kunt ervoor kiezen om deze cookies te accepteren of te weigeren.",
+    "accept": "Accepteren",
+    "decline": "Cookiesverklaring"
+  },
+  "about": {
+    "title": "Jouw shop voor retro voetbalshirts",
+    "paragraph1": "90Min Retro Shirts is een fictieve webshop die klassieke en moderne voetbalshirts aanbiedt.",
+    "paragraph2": "Van iconische shirts uit de jaren 90 tot samenwerkingen zoals AC Milan x Off-White: wij hebben het.",
+    "paragraph3": "Onze site is ontworpen met toegankelijkheid en design in balans — ook voor kleurenblinden.",
+    "paragraph4": "Blader, ontdek, shop — allemaal in een omgeving waar voetbalcultuur en design samenkomen."
+  }
+
+}

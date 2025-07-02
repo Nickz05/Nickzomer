@@ -1,0 +1,293 @@
+{"homepage": {
+  "worldwide": "Worldwide",
+  "mostPopular": "Most Popular"
+},
+
+  "navbar": {
+    "all-products": "All Products",
+    "league": "Leagues",
+    "nations": "Nations",
+    "retro": "Retro",
+    "all_leagues": "All Leagues",
+    "all_nations": "All Nations",
+    "all_retro": "All Retro",
+    "search_placeholder": "Search products...",
+    "login": "Login",
+    "account": "Account",
+    "language": "English",
+    "lang_nl": "Dutch",
+    "lang_en": "English",
+    "lang_arab": "Arabic",
+    "lang_es": "Spanish",
+    "leo-major": "Leo Major Liberation Kit",
+    "off-white": "Off White x AC Milan",
+    "dropdown-all": "All Leagues",
+    "categories": "categories",
+    "league-sub": {
+      "eredivisie": "Eredivisie",
+      "premier-league": "Premier League",
+      "serie-a": "Serie A",
+      "la-liga": "La Liga"
+    },
+    "nations-sub": {
+      "nederland": "Netherlands",
+      "duitsland": "Germany"
+    },
+    "retro-sub": {
+      "20e-eeuw": "20th Century",
+      "2000s": "2000s Stars"
+    },
+    "categories-sub": {
+      "league": "Leagues",
+      "nations": "Nations",
+      "retro": "Retro"
+    }
+  },
+  "products": {
+    "azt24-25": {
+      "name": "AZ Home Shirt 24/25",
+      "description": "The AZ home shirt for the 2024-2025 season is a tribute to Alkmaar and the iconic Grote Raam of the Grote Kerk. This masterpiece, the largest stained-glass window in Europe, reflects the unity of the city and its people. Every detail symbolizes the pride of Alkmaar residents and the unique history of the city. Made in collaboration with the Grote Kerk Alkmaar, this shirt is a fusion of tradition and modern design. Wear it with pride, for Alkmaar, by Alkmaar."
+    },
+    "azu24-25": {
+      "name": "AZ Away Shirt 24/25",
+      "description": "The iconic Zaanse Schans in black and white. A tribute to the culture of the Zaan region and AZ's connection to it."
+    },
+    "nlt24-25": {
+      "name": "Netherlands Home Shirt 24/25",
+      "description": "The Netherlands home shirt for EURO 2024 is a modern ode to the iconic orange color. The shirt symbolizes strength, pride, and national unity, featuring subtle lion details referencing the national symbol."
+    },
+    "nlu24-25": {
+      "name": "Netherlands Away Shirt 24/25",
+      "description": "The Netherlands away shirt for EURO 2024 combines modern design with traditional elements. In deep royal blue, the shirt radiates confidence and class. The subtle orange accents emphasize national pride and make the shirt a true eyecatcher."
+    },
+    "real-madrid-retro-2001-2002": {
+      "name": "Real Madrid Retro Shirt 2001/2002",
+      "description": "The legendary Real Madrid home shirt worn during the 2001/2002 season – the year they won their 9th Champions League title. Classic white with black accents."
+    },
+    "ac-milan-off-white-24-25": {
+      "name": "AC Milan x Off White Home Shirt 24/25",
+      "description": "From 1963 to infinity. This shirt, created by PUMA, AC Milan and Off-White™, expresses the spirit of 1963 — the year of Milan's first European Cup title and a world inspired by dreams of progress. Two alternative colorways celebrate unity, designed with signature Off-White™ accents reminding us that change is unstoppable but never complete. Whatever you dream of, dream big!"
+    },
+    "ac-milan-off-white-uit-24-25": {
+      "name": "AC Milan x Off White Away Shirt 24/25",
+      "description": "From 1963 to infinity. This shirt, created by PUMA, AC Milan and Off-White™, expresses the spirit of 1963 — the year of Milan's first European Cup title and a world inspired by dreams of progress. Two alternative colorways celebrate unity, designed with signature Off-White™ accents reminding us that change is unstoppable but never complete. Whatever you dream of, dream further."
+    },
+    "real-madrid-third-24-25": {
+      "name": "Real Madrid Third Kit 24/25",
+      "description": "Elegance is their identity. The engineered 'RMCF' monograms repeating across this Real Madrid third authentic jersey borrow their distinctive look from traditional Madrid street sign lettering. Standing out from the classy design, the iconic Trefoil returns to an adidas match shirt after a long break. Behind it all, HEAT.RDY keeps players cool and stylish on the pitch. This product is made with 100% recycled materials."
+    },
+    "liverpool-thuis-24-25": {
+      "name": "Liverpool Home Shirt 24/25",
+      "description": "The Chrome Yellow pattern design is a modernized version of the legendary '84 Home Shirt — a season in which the Reds became European champions for the 4th time in Rome and the first English club to win a treble of major honours. Our Stadium collection combines design details with sweat-wicking technology to give you a match-ready look inspired by the Liverpool FC Home Jersey. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
+    },
+    "nederland-retro-1988": {
+      "name": "Netherlands Retro Shirt 1988",
+      "description": "The iconic Netherlands home shirt from 1988, worn during the historic European Championship win in Germany. Featuring its unique geometric pattern and bold orange color, this shirt is a tribute to the legendary team of Van Basten, Gullit, and Rijkaard. A must-have for every Oranje supporter and fan of football history."
+    },
+    "duitsland-thuis-24-25": {
+      "name": "Germany Home Shirt 24/25",
+      "description": "The Germany home shirt for EURO 2024 radiates elegance and strength. Featuring a classic white design with modern accents and subtle references to the German flag, this jersey pays tribute to the rich football history of Die Mannschaft. Perfect for fans proud to support their nation."
+    },
+    "pec-zwolle-leo-major-2025": {
+      "name": "PEC Zwolle Leo Major Special Edition 80 Years of Liberation",
+      "description": "To commemorate 80 years since the liberation of Zwolle, PEC Zwolle and adidas present a special edition home shirt dedicated to Canadian war hero Leo Major. Inspired by the colors of the Distinguished Conduct Medal, the shirt features vertical navy and burgundy stripes, white adidas accents, and the city crest in place of the club logo. The shirt includes a patch with the liberation date — April 14, 1945 — and a maple leaf as a tribute to Canada. Worn only during the annual Leo Major Liberation Match, this limited edition shirt honors history and freedom."
+    },
+    "duitsland-uit-24-25": {
+      "name": "Germany Away Shirt 24/25",
+      "description": "The Germany away shirt for Euro 2024 blends power and elegance in a striking modern design. Featuring a bold black base with dynamic gold accents, this kit exudes confidence and class. A daring look for fans who proudly stand behind Die Mannschaft—on and off the pitch."
+    },
+    "bournemouth-thuis-24-25": {
+      "name": "Bournemouth Home Shirt 24/25",
+      "description": "The Bournemouth home shirt for the 2024/2025 season stays true to tradition with its iconic red and black stripes. Featuring modern details and a sleek fit, this shirt is a bold tribute to the fighting spirit of the club and its loyal supporters. Whether you're in the stands or on the streets — wear it with pride."
+    },
+    "manchester-united-retro-96-98": {
+      "name": "Manchester United Retro Home Shirt 1996-1998",
+      "description": "A classic tribute to the Red Devils, this Manchester United retro home shirt from the 1996–1998 era features the iconic red base with subtle black and white accents. Worn during one of the club’s golden eras, it’s a timeless symbol of pride for every United supporter."
+    },
+
+    "swipe": "← Swipe for more pictures →",
+    "inCart": "Add to Cart",
+    "price": "Price",
+    "shipToday": "Order today = shipped tomorrow",
+    "topQuality": "Highest quality guaranteed",
+    "official": "Official licensed apparel",
+    "quantity": "Quantity",
+    "error-50": "You can order a maximum of 50 items.",
+    "error-1": "You must order at least 1 item."
+  },
+  "cart": {
+    "title": "🛒 Cart",
+    "empty": "Your cart is empty.",
+    "total": "Total",
+    "grand_total": "Total amount",
+    "clear": "Clear cart",
+    "checkout": "Payment"
+  },
+  "login": {
+    "title": "Welcome back",
+    "email": "Email",
+    "password": "Password",
+    "login_button": "Login",
+    "no_account": "Don't have an account yet?",
+    "register_link": "Register here"
+  },
+  "account": {
+    "title": "Your Account",
+    "email": "Email",
+    "name": "Name",
+    "address": "Address",
+    "birthdate": "Date of Birth",
+    "orders": "View Orders",
+    "logout": "Log Out",
+    "close": "Close Account"
+  },
+  "register": {
+    "title": "Create Account ",
+    "email": "Email",
+    "password": "Password",
+    "confirm": "Repeat Password",
+    "name": "Name",
+    "address": "Address",
+    "birthdate": "Date of Birth",
+    "submit": "Register",
+    "loading": "Registering...",
+    "already": "Already have an account?",
+    "loginHere": "Login here"
+  },
+  "checkout": {
+    "title": "Complete Your Order",
+    "total": "Total",
+    "email": "Email address",
+    "name": "Name",
+    "address": "Address",
+    "confirm": "Confirm Order",
+    "successTitle": "Order Placed!",
+    "successMessage": "Thank you for your purchase, {{name}}."
+  },
+  "orders": {
+    "title": "Your Orders",
+    "empty": "You haven't placed any orders yet.",
+    "order": "Order",
+    "total": "Total"
+  },
+  "orderDetail": {
+    "placedOn": "Order placed on",
+    "backToOrders": "Back to my orders",
+    "customer": "Customer",
+    "email": "Email",
+    "address": "Address",
+    "price": "Price",
+    "quantity": "Quantity",
+    "total": "Total",
+    "loading": "⏳ Loading..."
+  },
+  "footer": {
+    "promoTitle": "JOIN NOW AND ENJOY BIG DISCOUNTS",
+    "join": "Join the CLUB",
+    "leagues": "Leagues",
+    "nations": "Nations",
+    "retro": "Retro",
+    "about": "About 90Min",
+    "aboutUs": "About us",
+    "blog": "Blog",
+    "delivery": "Delivery",
+    "sizeCharts": "Size charts",
+    "follow": "Follow us",
+    "rights": "All rights reserved",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookies",
+    "colorblindness": "Colorblindness"
+  },
+  "legal": {
+    "terms": {
+      "title": "Terms and Conditions",
+      "content": "Welcome to 90Min Retro Shirts. By using this website, you agree to the following terms.\n\n1. Fictional Webshop\nThis webshop is entirely fictional and intended solely for illustrative, demonstration, or educational purposes. None of the products shown are actually for sale or available for delivery.\n\n2. Orders\nAll order functions, shopping cart, and payment options are simulated. When you place an order, no real products will be shipped and no financial transaction will occur.\n\n3. No Delivery or Returns\nBecause this is a fictional webshop, no products will be delivered. Returns, refunds, or any form of customer service are not applicable.\n\n4. No Customer Support\nThere is no customer service available. Any inquiries, complaints, or requests will not be answered, as this site is not commercially operated.\n\n5. Use at Your Own Risk\nUse of this site is entirely at your own risk. The creators of this site are not responsible for any damages or consequences resulting from use of this demo environment.\n\n6. Intellectual Property\nAll logos, brand names, images, and texts used are for demonstration purposes only. They may be owned by third parties and are not used for commercial gain.\n\n7. Changes\nThese terms may be changed at any time without prior notice.\n\nThank you for your understanding and enjoy exploring the demo!"
+    },
+    "cookies": {
+      "title": "Cookies Policy",
+      "content": "This website uses cookies to provide a smooth user experience while navigating this demo environment.\n\n1. What are cookies?\nCookies are small text files stored on your device when you visit a website. They help remember preferences and collect basic statistics.\n\n2. Why do we use cookies?\nAs this is a fictional webshop, cookies are only used to support the demo site functionality and potentially provide basic analytical insights for educational purposes.\n\n3. Types of cookies\n- Essential cookies: ensure the site functions correctly (such as language settings).\n- Analytical cookies: may be used to gain basic insights, but no personal data is stored.\n\n4. No tracking or advertising\nThis website does not place tracking cookies, advertisements, or third-party trackers. All functionality is local and anonymous.\n\n5. Managing cookies\nYou can manage or delete cookies via your browser settings. Please note that doing so may affect the functionality of this demo.\n\n6. Changes\nThis cookie policy may be updated without prior notice depending on site updates.\n\nBy using this site, you agree to the use of the described cookies."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "content": "Welcome to our demo webshop 90Min Retro Shirts. This site is intended for demonstration and educational purposes only. No real purchases are made and no personal data is collected for commercial purposes.\n\n1. Data Collection\nDuring your use of this website, you may be asked to enter information such as your name, email address, or address. This data is only stored locally (e.g., in your browser or session memory) and is not shared with third parties.\n\n2. Use of Data\nAll entered information serves only as an example to demonstrate how the system works. The webshop does not process real payments or orders. All content is fictional and will not be used for marketing or sales.\n\n3. No External Storage\nThere is no connection to external databases or tracking tools. No information is stored on an external server. Everything runs locally or within the browser environment.\n\n4. Security\nSince this is a fictional environment, basic security measures are in place to prevent data from being unintentionally exposed. Still, we advise against entering any real personal information.\n\n5. User Rights\nAs no real personal data processing takes place, user rights such as access, modification, or deletion do not apply. This is a demonstration environment.\n\n6. Contact\nIf you have questions about this policy or want to know how to delete your demo data locally, you can contact the 90Min Retro Shirts project team (fictional).\n\nBy using this website, you agree to the use of entered data exclusively within this demonstration."
+    },
+    "delivery": {
+      "title": "Shipping & Delivery",
+      "content": "Our shirts are usually shipped within 1-2 business days. Please note: this is a demo website and no actual shipping takes place."
+    },
+    "about": {
+      "title": "About us",
+      "content": "90Min Retro Shirts is a fictional webshop fully focused on the sale of football shirts from clubs and national teams. The webshop combines retro designs with modern releases, offering a unique selection of shirts for both nostalgic football fans and contemporary supporters. Think of classic shirts from the 90s, exclusive collaborations such as AC Milan x Off-White, and the latest home shirts for EURO 2024.\n\nThe webshop was created with the idea that every football fan should be able to find something that suits them. That’s why the collection includes a diverse range: from colorful vintage jerseys to sleek black designs. For this reason, color blindness was also taken into account: key buttons, actions, and text contrast are designed to stand out visually for people with various forms of color blindness, such as red-green color blindness. Contrast was a conscious design choice, just like clear icons and labels that aren’t solely color-based.\n\nIn terms of functionality, the site is built in a modern way. The navigation is intuitive, and visitors can easily browse by category, team, or competition. Through a broad dropdown menu or search function, they can quickly find their favorite shirt. The homepage highlights popular and new shirts using an interactive slider.\n\nThe Terms & Conditions clearly state this. It is also mentioned that products are only available in one size in order to comply with regulations.\n\nThe webshop is fully bilingual (Dutch and English) and responsively designed for both desktop and mobile use. The shopping cart, checkout process, and user registration have been simulated to create a realistic user experience."
+    },
+    "colorblindness": {
+      "title": "Color Blind Accessibility in Webshops",
+      "content": "When designing a webshop, accessibility should always be considered. A commonly overlooked user group is people with color blindness. About 1 in 12 men and 1 in 200 women experience some form of color blindness. This means a significant portion of your potential customers may struggle to distinguish certain colors, negatively impacting their user experience. With smart design decisions, your webshop can become more inclusive and ensure that no one gives up shopping unnecessarily.\n\nWhat is color blindness and what issues arise on a webshop?\nColor blindness (daltonism) occurs when the cones in the eye responsible for color perception function poorly. The most common forms include protanomaly (difficulty with red and green), deuteranomaly (difficulty with green and red), and tritanomaly (difficulty with blue and yellow).\nMany webshops rely heavily on color to make buttons, errors, and product options clear. Color blind users may:\n- Have trouble reading text and buttons with low contrast\n- Struggle with navigation if links and buttons rely solely on color\n- Misunderstand error messages if only shown in red\n- Experience issues selecting products if options are only visually indicated without text\n\nFortunately, there are several simple steps to improve accessibility:\n1. Avoid problematic color combinations\n2. Ensure sufficient contrast\n3. Use icons and patterns in addition to color\n4. Make links and buttons extra recognizable\n5. Test your webshop with color blindness simulators\n6. Follow the Web Content Accessibility Guidelines (WCAG)\n\n\t**Sources:**\n- WebAim (2021). *Visual Disabilities*. Retrieved August 12, 2021, from https://webaim.org/articles/visual/colorblind\n- Alblas, V. (2021, March 11). *Webdesign voor kleurenblinden: 5 praktische tips*. Frankwatching. https://www.frankwatching.com/archive/2021/03/11/\nwebdesign-voor-kleurenblinden/- WeAreColorBlind. (n.d.). *Designing with the Colorblind in Mind will improve your Design for Everyone*. https://wearecolorblind.com/articles/designing-with-the-colorblind-in-mind-will-improve-your-design-for-everyone/\n- W3C. (2024, December 13). *Web Content Accessibility Guidelines (WCAG) 2.1*. https://www.w3.org/TR/WCAG21/\n- W3C. (2023). *WCAG Best Practices*. https://www.w3.org/WAI/standards-guidelines/wcag/"
+    },
+    "sizeCharts": {
+      "title": "Size Charts",
+      "content": "Our shirts are available in one size only (L). Since this is a demo, other sizes are not available."
+    }
+
+  },
+  "slider": {
+    "peczwolle": {
+      "title": "PEC Zwolle Liberation Kit",
+      "subtitle": "A tribute to Leo Major – 80 years of freedom"
+    },
+    "milan": {
+      "title": "AC Milan x OFF White",
+      "subtitle": "Welcome to Dreamland"
+    },
+    "retro": {
+      "title": "New Retro Collection",
+      "subtitle": "Limited editions and more"
+    },
+    "button": "Shop now"
+  },
+
+  "search": {
+    "results_for": "Search results for:",
+    "enter_query": "Please enter a search term.",
+    "loading": "Loading...",
+    "no_results": "No products found for"
+  },
+  "accessibility": {
+    "options": "Color Blind Options",
+    "default": "Default",
+    "protanopia": "Protanopia",
+    "deuteranopia": "Deuteranopia",
+    "tritanopia": "Tritanopia",
+    "achromatopsia": "Achromatopsia",
+    "popup": {
+      "default": "Standard mode activated.",
+      "protanopia": "Protanopia mode: red-blindness simulation activated.",
+      "deuteranopia": "Deuteranopia mode: green-blindness simulation activated.",
+      "tritanopia": "Tritanopia mode: blue-yellow color blindness simulation.",
+      "achromatopsia": "Achromatopsia mode: full grayscale vision simulation."
+    }
+  },
+  "errors": {
+    "page_not_found": "Oops! This page does not exist.",
+    "go_back_home": "Go back to homepage"
+  },
+
+  "cookies": {
+    "title": "This website uses cookies",
+    "description": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. You can choose to accept or decline the use of these cookies.",
+    "accept": "Agree",
+    "decline": "Cookie statement"
+  },
+  "about": {
+    "title": "Your shop for retro football shirts",
+    "paragraph1": "90Min Retro Shirts is a fictional webshop offering classic and modern football kits.",
+    "paragraph2": "From iconic 90s kits to collaborations like AC Milan x Off-White — we've got it.",
+    "paragraph3": "Our site is designed with both accessibility and style in mind — including support for color blindness.",
+    "paragraph4": "Browse, explore, and shop — all in a space where football culture meets design."
+  }
+
+
+
+
+
+}
